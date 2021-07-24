@@ -1,9 +1,10 @@
 package com.example.chattingapp.Models;
 
 public class User {
+
     private String uid, name, phoneNumber, profileImage;
-    public User()
-    {
+
+    public User() {
 
     }
 
