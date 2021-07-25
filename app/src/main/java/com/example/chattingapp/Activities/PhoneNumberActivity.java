@@ -26,6 +26,7 @@ public class PhoneNumberActivity extends AppCompatActivity {
             finish();
         }
 
+     
         getSupportActionBar().hide();
         binding.phoneBox.requestFocus();
 
